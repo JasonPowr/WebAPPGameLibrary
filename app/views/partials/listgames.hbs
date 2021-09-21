@@ -1,0 +1,37 @@
+<table class="ui fixed striped table">
+  <thead>
+    <tr>
+      <th>Name of Game</th>
+      <th>Developer</th>
+      <th>Genre</th>
+      <th>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    {{#each library.games}}
+      <tr>
+        <td>
+          {{title}}
+        </td>
+        <td>
+          {{developer}}
+        </td>
+        <td>
+          {{genre}}
+        </td>
+        <td>
+          <a href="/library/{{../library.id}}/deleteGame/{{id}}" class="ui icon button">  <i class="icon trash"></i></a>
+        </td>
+      </tr>
+    {{/each}}
+  </tbody>
+</table>
+
+<p>
+  <span id="rating"> </span>
+</p>
+
+<button class="ui blue button" onclick="getRating()">
+  Rate it! <i class="star icon"></i>
+</button>

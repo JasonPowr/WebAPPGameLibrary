@@ -1,0 +1,76 @@
+{
+  "gamesLibrary": [
+    {
+      "id" : "01",
+      "platform": "PC",
+      "games": [
+        {
+          "id" : "04",
+          "title": "Doom",
+          "developer": "id Software",
+          "genre": "First person shooter (FPS)"
+        },
+        {
+          "id" : "05",
+          "title": "The Witcher 3: wild hunt",
+          "developer": "CD Projekt",
+          "genre": "Role Playing Game (RPG)"
+        },
+        {
+          "id" : "06",
+          "title": "Minecraft (Java edition)",
+          "developer": "Mojang",
+          "genre": "Adventure game"
+        }
+      ]
+    },
+    {
+      "id" : "02",
+      "platform": "XBOX",
+      "games": [
+        {
+          "id" : "07",
+          "title": "Grand theft auto V",
+          "developer": "Rockstar Games",
+          "genre": "Action Adventure"
+        },
+        {
+          "id" : "08",
+          "title": "Forza Horizon 4",
+          "developer": "Microsoft Studios",
+          "genre": "Racing"
+        },
+        {
+          "id" : "09",
+          "title": "Sea of Thieves",
+          "developer": "Xbox Game studios",
+          "genre": "Action Adventure"
+        }
+      ]
+    },
+    {
+      "id" : "03",
+      "platform": "Playstation",
+      "games": [
+        {
+          "id" : "10",
+          "title": "Call of duty: Modern Warfare",
+          "developer": "Activision",
+          "genre": "First person shooter (FPS)"
+        },
+        {
+          "id" : "11",
+          "title": "Apex Legends",
+          "developer": "Respawn Entertainment",
+          "genre": "Battle royale"
+        },
+        {
+          "id" : "12",
+          "title": "Red dead Redemption 2",
+          "developer": "Rockstar Games",
+          "genre": "Action Adventure"
+        }
+      ]
+    }
+  ]
+}

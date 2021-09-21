@@ -1,0 +1,17 @@
+<form class="ui stacked segment form" action="/library/{{library.id}}/addgame" method="POST">
+  <div class="two fields">
+    <div class="field">
+      <label>Title</label>
+      <input placeholder="Title" type="text" name="title" autofocus required>
+    </div>
+    <div class="field">
+      <label>Developers</label>
+      <input placeholder="Developers" type="text" name="developer" required>
+    </div>
+    <div class="field">
+      <label>Genre</label>
+      <input placeholder="Genre" type="text" name="genre" autofocus required>
+    </div>
+  </div>
+  <button class="ui blue submit button">Add Game</button>
+</form>

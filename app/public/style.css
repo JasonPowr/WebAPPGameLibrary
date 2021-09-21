@@ -1,0 +1,33 @@
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-image: url("https://cdn.glitch.com/93bc57a6-58b6-4c3d-8545-3983f7ce2fb8%2F5c2d22831628a.webp?v=1583070892669");
+  color:white;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+#readmore {
+  display: none;
+  background-color:black;
+  background-image: url("https://cdn.glitch.com/93bc57a6-58b6-4c3d-8545-3983f7ce2fb8%2Fbest-subtle-black-white-background-textures-368x246.jpg?v=1583074135218");
+}
+
+#welcomeuser {
+  display: none;
+  color:white;
+  background-color:black;
+  background-image: url("https://cdn.glitch.com/93bc57a6-58b6-4c3d-8545-3983f7ce2fb8%2Fbest-subtle-black-white-background-textures-368x246.jpg?v=1583074135218");
+}
+
+.ui.two.column.grid.small.circular.segment{
+  background-image: url("https://cdn.glitch.com/93bc57a6-58b6-4c3d-8545-3983f7ce2fb8%2Fbest-subtle-black-white-background-textures-368x246.jpg?v=1583074135218");
+}
+
+.ui.card{
+  color:black;
+}
+ 

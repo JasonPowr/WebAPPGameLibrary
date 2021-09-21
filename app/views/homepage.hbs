@@ -1,0 +1,36 @@
+{{> menu}}
+
+<section class="ui two column grid small circular segment">
+  <div class="ui column">
+    <h2>Welcome to my Gaming Playlist App</h2>
+      <p>
+        This Web app allows users to create different playlists for different gaming platforms and allows them to list there favourite games in said playlists.
+      </p>
+      <div class="buttons">
+        <button class="ui blue button" onclick="showHide()">
+          Read more <i class="arrow circle right icon"></i>
+        </button>
+        <button class="ui green button" onclick="alert('Thanks! You\'re okay too')">
+          Like it? <i class="thumbs up icon"></i>
+        </button>
+        <button class="ui red button" onclick="welcomeUser()">
+          Who are you? <i class="user icon"></i>
+        </button>
+      </div>
+
+      <div id="readmore" class="ui message">
+        <p>
+          This Web app gives the users the ability to create update and delete playlists of there favourite games sorted by there chosen platform it was created as part of 
+          my Web App development module in my time at Waterford Institute of Technology.
+        </p>  
+      </div>
+      <div id="welcomeuser" class="ui message" onclick="hideWelcome()"> </div>
+  </div>
+  <div class="ui column">
+    <div class="ui centered grid">
+      <div class="ui eight wide column">
+        <img class="ui large image" src="https://cdn.glitch.com/93bc57a6-58b6-4c3d-8545-3983f7ce2fb8%2Fimage-gaming-png-3.png?v=1583073781549">
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,130 @@
+{
+  "gamesLibrary": [
+    {
+      "id": "ecff2645-fb23-40d9-b458-1efa28f7c42a",
+      "title": "PC",
+      "games": [
+        {
+          "id": "5680be17-d6c5-49b6-a30a-83529b022a17",
+          "title": "Doom",
+          "developer": "id Software",
+          "genre": "Firste person shooter (FPS)"
+        },
+        {
+          "id": "fa35d6f9-fffa-4cfa-81ac-64b93ee45be3",
+          "title": "The Witcher 3: wild hunt",
+          "developer": "CD Projekt",
+          "genre": "Role Playing Game (RPG)"
+        },
+        {
+          "id": "a1c7deba-57cd-45b1-9d27-1d552d60e419",
+          "title": "Minecraft",
+          "developer": "Mojang",
+          "genre": "Adventure game"
+        },
+        {
+          "id": "b759662c-f4bd-445b-bb77-054332435be4",
+          "title": "Overwatch",
+          "developer": "Blizzard Entertainment",
+          "genre": "Firste person shooter (FPS)"
+        },
+        {
+          "id": "c71069c0-ef75-49de-ac64-6373327d35a5",
+          "title": "Pubg",
+          "developer": "Bluehole",
+          "genre": "Battle royale"
+        }
+      ]
+    },
+    {
+      "id": "a563ab91-1551-4294-8fcf-4a526abd9d0a",
+      "title": "XBOX",
+      "games": [
+        {
+          "id": "09cf1f81-642b-466b-9352-9ebc18027d0b",
+          "title": "Grand theft auto V",
+          "developer": "Rockstar Games",
+          "genre": "Action Adventure"
+        },
+        {
+          "id": "1ad5fc79-bf13-4498-a73b-d795d952d29a",
+          "title": "Forza Horizon 4",
+          "developer": "Microsoft Studios",
+          "genre": "Racing"
+        },
+        {
+          "id": "b04418ee-cf5e-4f5f-8ec9-e292ed4fb730",
+          "title": "Sea of Thieves",
+          "developer": "Xbox Game Studio",
+          "genre": "Action Adventure"
+        },
+        {
+          "id": "0868d39f-dcf0-411e-bc95-cc5f52bdcd2b",
+          "title": "Rocket league",
+          "developer": "Panic Button Games",
+          "genre": "Soccer Racing game"
+        },
+        {
+          "id": "14ad1254-edf9-4663-800f-0b46a475dbeb",
+          "title": "Fifa 20",
+          "developer": "EA",
+          "genre": "Sports "
+        }
+      ]
+    },
+    {
+      "id": "f69b2861-5038-47e3-a8ca-887cf62a2ef9",
+      "title": "Playstation",
+      "games": [
+        {
+          "id": "3ac81bac-26a9-4ee9-9490-52719d3bc7ad",
+          "title": "Call of Duty Modern Warfare",
+          "developer": "Activision",
+          "genre": "Firste person shooter (FPS)"
+        },
+        {
+          "id": "cb59db48-f611-47a9-9505-36d127d607d5",
+          "title": "Apex Legends",
+          "developer": "Respawn Entertainment",
+          "genre": "Battle royale"
+        },
+        {
+          "id": "74304e03-7f7f-4466-8d38-9285a78fd322",
+          "title": "Red dead Redemption 2",
+          "developer": "Rockstar Games",
+          "genre": "Action Adventure"
+        },
+        {
+          "id": "aa0cc2b5-3858-4504-9b14-a21fc0d4716d",
+          "title": "Final Fantasy VII",
+          "developer": "Square",
+          "genre": "Role Playing Game (RPG)"
+        }
+      ]
+    },
+    {
+      "id": "13c191ee-8cb7-4f33-ad04-9a58d157eef3",
+      "title": "Nintendo Switch",
+      "games": [
+        {
+          "id": "ec734355-951a-4614-8268-62bb96b7abd3",
+          "title": "Super Mario Bros.",
+          "developer": "Nintendo",
+          "genre": "Platformer"
+        },
+        {
+          "id": "0cee5244-7cf8-42c7-949f-4fbe6e9735da",
+          "title": "Super Smash Bros.",
+          "developer": "Nintendo",
+          "genre": "Fighting game"
+        },
+        {
+          "id": "d5a46ea4-7483-4bec-8bf6-07ee05f14e19",
+          "title": "Pokemon Sword and Shield",
+          "developer": "Nintendo",
+          "genre": "Role Playing Game (RPG)"
+        }
+      ]
+    }
+  ]
+}
